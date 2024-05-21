@@ -1,0 +1,14 @@
+C:\Users\harhi\source\repos\allProjects\AppPow\bin\Debug\net8.0\AppPow.exe
+C:\Users\harhi\source\repos\allProjects\AppPow\bin\Debug\net8.0\AppPow.deps.json
+C:\Users\harhi\source\repos\allProjects\AppPow\bin\Debug\net8.0\AppPow.runtimeconfig.json
+C:\Users\harhi\source\repos\allProjects\AppPow\bin\Debug\net8.0\AppPow.dll
+C:\Users\harhi\source\repos\allProjects\AppPow\bin\Debug\net8.0\AppPow.pdb
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\AppPow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\AppPow.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\AppPow.AssemblyInfo.cs
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\AppPow.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\AppPow.dll
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\refint\AppPow.dll
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\AppPow.pdb
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\AppPow.genruntimeconfig.cache
+C:\Users\harhi\source\repos\allProjects\AppPow\obj\Debug\net8.0\ref\AppPow.dll
