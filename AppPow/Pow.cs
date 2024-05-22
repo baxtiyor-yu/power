@@ -13,7 +13,7 @@ namespace AppPow
 
                 Console.Write("Darajani kiriting: ");
 
-                var daraja = Helper.CheckForNumber("01");
+                var daraja = Helper.CheckForNumber("0123456789");
 
                 Console.WriteLine("\n" + TwoPowX(daraja) + "\n");
 
