@@ -50,7 +50,7 @@ namespace AppPow
                 key = Console.ReadKey(true);
                 if (key.Key != ConsoleKey.Backspace)
                 {
-                    if (str.Contains(key.KeyChar.ToString()) && _val.Length < 7)
+                    if (str.Contains(key.KeyChar.ToString()) && _val.Length < 5)
                     {
                         _val += key.KeyChar;
                         Console.Write(key.KeyChar);
